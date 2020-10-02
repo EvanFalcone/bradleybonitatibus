@@ -8,12 +8,9 @@ I am also extremely passionate about using `CI/CD` and `SRE` principles to impro
 
 ## Experience
 
-I have experience as the lead engineer on several backend services at <a href="https://compassdigital.io">@compassdigital</a> and also maintained the Apache Airflow deployment for the organization.
-The services were deployed as containers onto AWS.
-I also have experience in building CI/CD pipelines for our data products and tools using both `CodePipeline` and `GitHub Actions`.
-I also lead code reviews for the data science & data engineering teams, maintained several codebases, and managed our `Kanban` board.
+I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
 
-The data pipelines I've built ingest ~40 million records per day into our data warehouse.
+I have experience implement `CI/CD` on `AWS` that deploys microservices as `Docker` contianers.
 
 I am also a certified AWS Solutions Architect - Associate (SAA-02).
 
