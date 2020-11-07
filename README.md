@@ -5,7 +5,7 @@
 
 I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
 
-I have experience implement `CI/CD` on `AWS` that deploys microservices as `Docker` contianers.
+I also implemented `CI/CD` on `AWS` that deploys microservices onto `ECS` and `EKS`.
 
 I am also a certified AWS Solutions Architect - Associate (SAA-02).
 
