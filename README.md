@@ -1,10 +1,7 @@
 # Bradley Bonitatibus
 
 ## Data Engineer & Solutions Architect
-
-I am also extremely passionate about using `CI/CD` and `SRE` principles to improve productivity as well as reliabily deliver software into production environments.
-
-## Experience
+### Experience
 
 I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
 
