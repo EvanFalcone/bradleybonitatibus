@@ -2,8 +2,6 @@
 
 ## Data Engineer & Solutions Architect
 
-I love building robust, maintainable, and sustainable software.
-
 I am also extremely passionate about using `CI/CD` and `SRE` principles to improve productivity as well as reliabily deliver software into production environments.
 
 ## Experience
