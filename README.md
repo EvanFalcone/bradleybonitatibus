@@ -1,6 +1,5 @@
 # Bradley Bonitatibus
-
-## Data Engineer & Solutions Architect
+Data Engineer & Solutions Architect
 ### Experience
 
 I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
