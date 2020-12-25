@@ -1,10 +1,12 @@
 # Bradley Bonitatibus
 Data Engineer & Solutions Architect
-### Experience
+## Experience
 
 I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
 
 I am also a certified AWS Solutions Architect - Associate (SAA-02).
+
+I completed my bachelors degree in Public Health (B.PH) at <a href="https://uwaterloo.ca/public-health-and-health-systems/" target="_blank">University of Waterloo</a> and have experience working in the health sector.
 
 ## Hobbies
 
