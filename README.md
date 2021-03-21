@@ -14,3 +14,6 @@ Currently, my favourite and `go` to language is `golang`, but I am experienced i
 
 ### Hobbies
 I love reading books, listening to music, and taking pictures of birds and nature.
+
+### Contact
+Feel free to contact me at <a href="mailto:bradleybonitatibus@gmail.com">bradleybonitatibus@gmail.com</a>
