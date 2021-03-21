@@ -1,23 +1,16 @@
 # Bradley Bonitatibus
+Machine Learning Engineer at Loblaw Companies Limited
 
-## Data Engineer & Solutions Architect
+### Experience
+Currently, I am working at Loblaw as a Machine Learning Engineer, focusing on improving our DevOps processes and building out a platform to enable 
+data scientists to build production grade cloud native machine learning solutions.
 
-I love building robust, maintainable, and sustainable software.
+I previously worked at Bond Brand Loyalty and Compass Digital Labs as a Data Engineer, in a similar capacity, bringing
+DevOps to the data teams, and building streaming and batch pipelines. In addition to pipelines, I build performance
+monitoring tools and backend services.
 
-I am also extremely passionate about using `CI/CD` and `SRE` principles to improve productivity as well as reliabily deliver software into production environments.
+### Languages
+Currently, my favourite and `go` to language is `golang`, but I am experienced in `python`, `js` (`TypeScript` + `Node` + `React`), and a tiny bit of `rust`. 
 
-## Experience
-
-I have experience building distributed systems on `AWS` and building data pipelines that ingest on the order of ~10<sup>6</sup> events per day using `Apache Airflow`.
-
-I have experience implement `CI/CD` on `AWS` that deploys microservices as `Docker` contianers.
-
-I am also a certified AWS Solutions Architect - Associate (SAA-02).
-
-## Hobbies
-
-In the few spare moments of free time I have, I love taking pictures of birds.
-I also love playing `bass` and listening to new and old music.
-
-## Contact
-Feel free to contact me at <a href="mailto:bradleybonitatibus@gmail.com">bradleybonitatibus@gmail.com</a>
+### Hobbies
+I love reading books, listening to music, and taking pictures of birds and nature.
