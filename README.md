@@ -1,19 +1,14 @@
 # Bradley Bonitatibus
-Machine Learning Engineer at Loblaw Companies Limited
+Software Engineer at Loblaw Companies Limited
 
-### Experience
-Currently, I am working at Loblaw as a Machine Learning Engineer, focusing on improving our DevOps processes and building out a platform to enable 
-data scientists to build production grade cloud native machine learning solutions.
+## Summary
+Experienced software engineer specializing in data-intensive systems. Passionate about DevOps and Continuous Delivery. University of Waterloo, Honours Public Health 2019.
 
-I previously worked at Bond Brand Loyalty and Compass Digital Labs as a Data Engineer, in a similar capacity, bringing
-DevOps to the data teams, and building streaming and batch pipelines. In addition to pipelines, I build performance
-monitoring tools and backend services.
+## Interests
+I have deep interest in Continuous Delivery and DevOps philosophies with a passion for increasing development experience on projects I work on. In addition, I am a fan of the `rust` programming language, although I spend most of my professional development knowledge and skills in `golang` and `python`.
 
-### Languages
-Currently, my favourite and `go` to language is `golang`, but I am experienced in `python`, `js` (`TypeScript` + `Node` + `React`), and a tiny bit of `rust`. 
-
-### Hobbies
+## Hobbies
 I love reading books, listening to music, and taking pictures of birds and nature.
 
-### Contact
+## Contact
 Feel free to contact me at <a href="mailto:bradleybonitatibus@gmail.com">bradleybonitatibus@gmail.com</a>
