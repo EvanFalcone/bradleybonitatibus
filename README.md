@@ -1,5 +1,5 @@
 # Bradley Bonitatibus
-Senior Software Engineer at Loblaw Companies Limited
+Lead Data Engineer at theScore.
 
 ## Summary
 Experienced software engineer specializing in data-intensive systems. Passionate about DevOps and Continuous Delivery. University of Waterloo, Honours Public Health 2019.
